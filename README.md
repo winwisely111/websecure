@@ -1,6 +1,7 @@
 # websecure
 
-Web site for Security system and GUI components.
+Web site to document the Security system and GUI components.
+
 
 ## High level Roadmap
 
